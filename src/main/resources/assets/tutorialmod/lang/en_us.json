@@ -1,4 +1,7 @@
 {
   "item.tutorialmod.raw_tanzanite": "Raw Tanzanite",
-  "item.tutorialmod.tanzanite": "Tanzanite"
+  "item.tutorialmod.tanzanite": "Tanzanite",
+  "itemGroup.tutorialmod.tutorial_group": "Tanzanite Tutorial Tab",
+  "item.tutorialmod.raw_tanzanite.tooltip": "Something is here",
+  "item.tutorialmod.tanzanite.tooltip": "Nothing is here"
 }
